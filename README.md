@@ -8,12 +8,12 @@ Unity version: 2022.3.4f1
 
 [DoTween v1.2.765](https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676) is used for Dot effects.
 
-[Unity.Animator](https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676](https://docs.unity3d.com/Manual/class-Animator.html)) is used for top panel state changes.
+[Unity.Animator](https://docs.unity3d.com/Manual/class-Animator.html) is used for top panel state changes.
 
 [Unity.UI](https://docs.unity3d.com/Manual/UIToolkits.html) is used for all visual elements.
 
-[Canva color palette](https://docs.unity3d.com/Manual/UIToolkits.html) is used.
+[Canva color palette](https://www.canva.com/colors/color-palettes/pastel-dreams/) is used.
 
-WebGL build can be seen on the [link](https://www.canva.com/colors/color-palettes/pastel-dreams/). 
+WebGL build can be seen on the [link](https://wardal.itch.io/dotproblem). 
 
 This build can be tested on both PC, Mac browsers, and Android, Ios devices.
