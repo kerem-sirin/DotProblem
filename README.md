@@ -12,6 +12,8 @@ Unity version: 2022.3.4f1
 
 [Unity.UI](https://docs.unity3d.com/Manual/UIToolkits.html) is used for all visual elements.
 
-WebGL build can be seen on the [link](https://wardal.itch.io/dotproblem). 
+[Canva color palette](https://docs.unity3d.com/Manual/UIToolkits.html) is used.
+
+WebGL build can be seen on the [link](https://www.canva.com/colors/color-palettes/pastel-dreams/). 
 
 This build can be tested on both PC, Mac browsers, and Android, Ios devices.
